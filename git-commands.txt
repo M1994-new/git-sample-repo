@@ -6,3 +6,4 @@ git branch <branch-name>
 git checkout <name-of-your-branch>
 4. Git status
 git status
+git init
