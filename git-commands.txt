@@ -1,0 +1,8 @@
+1. Git clone
+git clone <https://name-of-the-repository-link>
+2. Git branch
+git branch <branch-name>
+3. Git checkout
+git checkout <name-of-your-branch>
+4. Git status
+git status
