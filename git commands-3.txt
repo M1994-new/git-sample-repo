@@ -1,0 +1,12 @@
+Checkout option is used when you want to work on other branches
+1.	Git init
+2.	Git remote add origin url of the repository
+3.	Git fetch
+4.	Git status
+5.	Git branch
+6.	Git checkout branchname(the branch you want to work)
+7.	Git status
+8.	Git add .
+9.	Git commit -m “commit message”
+10.	Git push origin branchname
+11.	Git status
